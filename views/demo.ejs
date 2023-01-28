@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>
+            PPP Convertion
+        </title>
+    </head>
+    <body>
+        <form action="/hello" method="post">
+            <label for="country">Source country</label>
+            <select name="country">
+                <% fdata.forEach(function(d){ %>
+                <option value="<%= d.Country_Name %>"><%= d.Country_Name %></option>
+                <% }) %>
+            </select><br>
+            <label for="Target country">Target country</label>
+            <select name="Target">
+                <% fdata.forEach(function(d){ %>
+                    <option value="<%= d.Country_Name %>"><%= d.Country_Name %></option>
+                <% }) %>
+            </select><br>
+            <input type="text" name="amount">
+            <input type="submit">
+        </form>        
+    </body>
+</html>

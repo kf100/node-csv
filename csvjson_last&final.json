@@ -1,0 +1,1864 @@
+[
+  {
+    "Country_Name": "Aruba",
+    "Country_Code": "ABW",
+    "PPP": 1.34234,
+    "Currency_Code": "ANG",
+    "": ""
+  },
+  {
+    "Country_Name": "Africa Eastern and Southern",
+    "Country_Code": "AFE",
+    "PPP": "",
+    "Currency_Code": "ZAR",
+    "": ""
+  },
+  {
+    "Country_Name": "Afghanistan",
+    "Country_Code": "AFG",
+    "PPP": 19.12317,
+    "Currency_Code": "AFN",
+    "": ""
+  },
+  {
+    "Country_Name": "Africa Western and Central",
+    "Country_Code": "AFW",
+    "PPP": "",
+    "Currency_Code": "XAF",
+    "": ""
+  },
+  {
+    "Country_Name": "Angola",
+    "Country_Code": "AGO",
+    "PPP": 220.26872,
+    "Currency_Code": "AOA",
+    "": ""
+  },
+  {
+    "Country_Name": "Albania",
+    "Country_Code": "ALB",
+    "PPP": 42.96926,
+    "Currency_Code": "ALL",
+    "": ""
+  },
+  {
+    "Country_Name": "Andorra",
+    "Country_Code": "AND",
+    "PPP": "",
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Arab World",
+    "Country_Code": "ARB",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "United Arab Emirates",
+    "Country_Code": "ARE",
+    "PPP": 1.99585,
+    "Currency_Code": "AED",
+    "": ""
+  },
+  {
+    "Country_Name": "Argentina",
+    "Country_Code": "ARG",
+    "PPP": 43.13541,
+    "Currency_Code": "ARS",
+    "": ""
+  },
+  {
+    "Country_Name": "Armenia",
+    "Country_Code": "ARM",
+    "PPP": 160.80458,
+    "Currency_Code": "AMD",
+    "": ""
+  },
+  {
+    "Country_Name": "American Samoa",
+    "Country_Code": "ASM",
+    "PPP": "",
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Antigua and Barbuda",
+    "Country_Code": "ATG",
+    "PPP": 2.02807,
+    "Currency_Code": "XCD",
+    "": ""
+  },
+  {
+    "Country_Name": "Australia",
+    "Country_Code": "AUS",
+    "PPP": 1.43898,
+    "Currency_Code": "AUD",
+    "": ""
+  },
+  {
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "PPP": 0.77083,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Azerbaijan",
+    "Country_Code": "AZE",
+    "PPP": 0.57773,
+    "Currency_Code": "AZN",
+    "": ""
+  },
+  {
+    "Country_Name": "Burundi",
+    "Country_Code": "BDI",
+    "PPP": 710.13332,
+    "Currency_Code": "BIF",
+    "": ""
+  },
+  {
+    "Country_Name": "Belgium",
+    "Country_Code": "BEL",
+    "PPP": 0.74272,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Benin",
+    "Country_Code": "BEN",
+    "PPP": 209.04214,
+    "Currency_Code": "XOF",
+    "": ""
+  },
+  {
+    "Country_Name": "Burkina Faso",
+    "Country_Code": "BFA",
+    "PPP": 206.80569,
+    "Currency_Code": "XOF",
+    "": ""
+  },
+  {
+    "Country_Name": "Bangladesh",
+    "Country_Code": "BGD",
+    "PPP": 32.09938,
+    "Currency_Code": "BDT",
+    "": ""
+  },
+  {
+    "Country_Name": "Bulgaria",
+    "Country_Code": "BGR",
+    "PPP": 0.72048,
+    "Currency_Code": "BGN",
+    "": ""
+  },
+  {
+    "Country_Name": "Bahrain",
+    "Country_Code": "BHR",
+    "PPP": 0.18408,
+    "Currency_Code": "BHD",
+    "": ""
+  },
+  {
+    "Country_Name": "Bahamas, The",
+    "Country_Code": "BHS",
+    "PPP": 0.82794,
+    "Currency_Code": "BSD",
+    "": ""
+  },
+  {
+    "Country_Name": "Bosnia and Herzegovina",
+    "Country_Code": "BIH",
+    "PPP": 0.6789,
+    "Currency_Code": "BAM",
+    "": ""
+  },
+  {
+    "Country_Name": "Belarus",
+    "Country_Code": "BLR",
+    "PPP": 0.85435,
+    "Currency_Code": "BYR",
+    "": ""
+  },
+  {
+    "Country_Name": "Belize",
+    "Country_Code": "BLZ",
+    "PPP": 1.27733,
+    "Currency_Code": "BZD",
+    "": ""
+  },
+  {
+    "Country_Name": "Bermuda",
+    "Country_Code": "BMU",
+    "PPP": 1.3014,
+    "Currency_Code": "BMD",
+    "": ""
+  },
+  {
+    "Country_Name": "Bolivia",
+    "Country_Code": "BOL",
+    "PPP": 2.61306,
+    "Currency_Code": "BOB",
+    "": ""
+  },
+  {
+    "Country_Name": "Brazil",
+    "Country_Code": "BRA",
+    "PPP": 2.52613,
+    "Currency_Code": "BRL",
+    "": ""
+  },
+  {
+    "Country_Name": "Barbados",
+    "Country_Code": "BRB",
+    "PPP": 2.29926,
+    "Currency_Code": "BBD",
+    "": ""
+  },
+  {
+    "Country_Name": "Brunei Darussalam",
+    "Country_Code": "BRN",
+    "PPP": 0.63988,
+    "Currency_Code": "BND",
+    "": ""
+  },
+  {
+    "Country_Name": "Bhutan",
+    "Country_Code": "BTN",
+    "PPP": 19.97936,
+    "Currency_Code": "INR",
+    "": ""
+  },
+  {
+    "Country_Name": "Botswana",
+    "Country_Code": "BWA",
+    "PPP": 4.62769,
+    "Currency_Code": "BWP",
+    "": ""
+  },
+  {
+    "Country_Name": "Central African Republic",
+    "Country_Code": "CAF",
+    "PPP": 277.92727,
+    "Currency_Code": "XAF",
+    "": ""
+  },
+  {
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "PPP": 1.25307,
+    "Currency_Code": "CAD",
+    "": ""
+  },
+  {
+    "Country_Name": "Central Europe and the Baltics",
+    "Country_Code": "CEB",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Switzerland",
+    "Country_Code": "CHE",
+    "PPP": 1.10452,
+    "Currency_Code": "CHF",
+    "": ""
+  },
+  {
+    "Country_Name": "Channel Islands",
+    "Country_Code": "CHI",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Chile",
+    "Country_Code": "CHL",
+    "PPP": 430.34956,
+    "Currency_Code": "CLP",
+    "": ""
+  },
+  {
+    "Country_Name": "China",
+    "Country_Code": "CHN",
+    "PPP": 4.18734,
+    "Currency_Code": "CNY",
+    "": ""
+  },
+  {
+    "Country_Name": "Cote d'Ivoire",
+    "Country_Code": "CIV",
+    "PPP": 240.75061,
+    "Currency_Code": "XOF",
+    "": ""
+  },
+  {
+    "Country_Name": "Cameroon",
+    "Country_Code": "CMR",
+    "PPP": 226.71235,
+    "Currency_Code": "XAF",
+    "": ""
+  },
+  {
+    "Country_Name": "Congo, Dem. Rep.",
+    "Country_Code": "COD",
+    "PPP": 953.4351,
+    "Currency_Code": "XAF",
+    "": ""
+  },
+  {
+    "Country_Name": "Congo, Rep.",
+    "Country_Code": "COG",
+    "PPP": 339.42793,
+    "Currency_Code": "CFA",
+    "": ""
+  },
+  {
+    "Country_Name": "Colombia",
+    "Country_Code": "COL",
+    "PPP": 1358.65061,
+    "Currency_Code": "COP",
+    "": ""
+  },
+  {
+    "Country_Name": "Comoros",
+    "Country_Code": "COM",
+    "PPP": 189.29598,
+    "Currency_Code": "KMF",
+    "": ""
+  },
+  {
+    "Country_Name": "Cabo Verde",
+    "Country_Code": "CPV",
+    "PPP": 45.70358,
+    "Currency_Code": "CVE",
+    "": ""
+  },
+  {
+    "Country_Name": "Costa Rica",
+    "Country_Code": "CRI",
+    "PPP": 332.02691,
+    "Currency_Code": "CRC",
+    "": ""
+  },
+  {
+    "Country_Name": "Caribbean small states",
+    "Country_Code": "CSS",
+    "PPP": "",
+    "Currency_Code": "XCD",
+    "": ""
+  },
+  {
+    "Country_Name": "Cuba",
+    "Country_Code": "CUB",
+    "PPP": "",
+    "Currency_Code": "CUP",
+    "": ""
+  },
+  {
+    "Country_Name": "Curacao",
+    "Country_Code": "CUW",
+    "PPP": 1.39434,
+    "Currency_Code": "ANG",
+    "": ""
+  },
+  {
+    "Country_Name": "Cayman Islands",
+    "Country_Code": "CYM",
+    "PPP": 0.98121,
+    "Currency_Code": "KYD",
+    "": ""
+  },
+  {
+    "Country_Name": "Cyprus",
+    "Country_Code": "CYP",
+    "PPP": 0.6119,
+    "Currency_Code": "CYP",
+    "": ""
+  },
+  {
+    "Country_Name": "Czechia",
+    "Country_Code": "CZE",
+    "PPP": 12.91971,
+    "Currency_Code": "CZK",
+    "": ""
+  },
+  {
+    "Country_Name": "Germany",
+    "Country_Code": "DEU",
+    "PPP": 0.74149,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Djibouti",
+    "Country_Code": "DJI",
+    "PPP": 100.88136,
+    "Currency_Code": "DJF",
+    "": ""
+  },
+  {
+    "Country_Name": "Dominica",
+    "Country_Code": "DMA",
+    "PPP": 1.70471,
+    "Currency_Code": "XCD",
+    "": ""
+  },
+  {
+    "Country_Name": "Denmark",
+    "Country_Code": "DNK",
+    "PPP": 6.59362,
+    "Currency_Code": "DKK",
+    "": ""
+  },
+  {
+    "Country_Name": "Dominican Republic",
+    "Country_Code": "DOM",
+    "PPP": 23.70427,
+    "Currency_Code": "DOP",
+    "": ""
+  },
+  {
+    "Country_Name": "Algeria",
+    "Country_Code": "DZA",
+    "PPP": 42.2449,
+    "Currency_Code": "DZD",
+    "": ""
+  },
+  {
+    "Country_Name": "East Asia & Pacific (excluding high income)",
+    "Country_Code": "EAP",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Early-demographic dividend",
+    "Country_Code": "EAR",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "East Asia & Pacific",
+    "Country_Code": "EAS",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Europe & Central Asia (excluding high income)",
+    "Country_Code": "ECA",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Europe & Central Asia",
+    "Country_Code": "ECS",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Ecuador",
+    "Country_Code": "ECU",
+    "PPP": 0.50894,
+    "Currency_Code": "ECS",
+    "": ""
+  },
+  {
+    "Country_Name": "Egypt, Arab Rep.",
+    "Country_Code": "EGY",
+    "PPP": 4.56736,
+    "Currency_Code": "EGP",
+    "": ""
+  },
+  {
+    "Country_Name": "Euro area",
+    "Country_Code": "EMU",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Eritrea",
+    "Country_Code": "ERI",
+    "PPP": "",
+    "Currency_Code": "ETB",
+    "": ""
+  },
+  {
+    "Country_Name": "Spain",
+    "Country_Code": "ESP",
+    "PPP": 0.62446,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Estonia",
+    "Country_Code": "EST",
+    "PPP": 0.54669,
+    "Currency_Code": "EEK",
+    "": ""
+  },
+  {
+    "Country_Name": "Ethiopia",
+    "Country_Code": "ETH",
+    "PPP": 14.16684,
+    "Currency_Code": "ETB",
+    "": ""
+  },
+  {
+    "Country_Name": "European Union",
+    "Country_Code": "EUU",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Fragile and conflict affected situations",
+    "Country_Code": "FCS",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "PPP": 0.82975,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Fiji",
+    "Country_Code": "FJI",
+    "PPP": 0.87323,
+    "Currency_Code": "FJD",
+    "": ""
+  },
+  {
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "PPP": 0.72532,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Faroe Islands",
+    "Country_Code": "FRO",
+    "PPP": "",
+    "Currency_Code": "DKK",
+    "": ""
+  },
+  {
+    "Country_Name": "Micronesia, Fed. Sts.",
+    "Country_Code": "FSM",
+    "PPP": 0.98093,
+    "Currency_Code": "USD",
+    "": ""
+  },
+  {
+    "Country_Name": "Gabon",
+    "Country_Code": "GAB",
+    "PPP": 285.02397,
+    "Currency_Code": "XAF",
+    "": ""
+  },
+  {
+    "Country_Name": "United Kingdom",
+    "Country_Code": "GBR",
+    "PPP": 0.6928,
+    "Currency_Code": "GBP",
+    "": ""
+  },
+  {
+    "Country_Name": "Georgia",
+    "Country_Code": "GEO",
+    "PPP": 0.95551,
+    "Currency_Code": "GEL",
+    "": ""
+  },
+  {
+    "Country_Name": "Ghana",
+    "Country_Code": "GHA",
+    "PPP": 2.34191,
+    "Currency_Code": "GHS",
+    "": ""
+  },
+  {
+    "Country_Name": "Gibraltar",
+    "Country_Code": "GIB",
+    "PPP": "",
+    "Currency_Code": "GIP",
+    "": ""
+  },
+  {
+    "Country_Name": "Guinea",
+    "Country_Code": "GIN",
+    "PPP": 4014.57788,
+    "Currency_Code": "GNF",
+    "": ""
+  },
+  {
+    "Country_Name": "Gambia, The",
+    "Country_Code": "GMB",
+    "PPP": 17.67538,
+    "Currency_Code": "GMD",
+    "": ""
+  },
+  {
+    "Country_Name": "Guinea-Bissau",
+    "Country_Code": "GNB",
+    "PPP": 219.14958,
+    "Currency_Code": "XOF",
+    "": ""
+  },
+  {
+    "Country_Name": "Equatorial Guinea",
+    "Country_Code": "GNQ",
+    "PPP": 258.87071,
+    "Currency_Code": "XAF",
+    "": ""
+  },
+  {
+    "Country_Name": "Greece",
+    "Country_Code": "GRC",
+    "PPP": 0.54781,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Grenada",
+    "Country_Code": "GRD",
+    "PPP": 1.60711,
+    "Currency_Code": "XCD",
+    "": ""
+  },
+  {
+    "Country_Name": "Greenland",
+    "Country_Code": "GRL",
+    "PPP": "",
+    "Currency_Code": "DKK",
+    "": ""
+  },
+  {
+    "Country_Name": "Guatemala",
+    "Country_Code": "GTM",
+    "PPP": 3.97879,
+    "Currency_Code": "GTQ",
+    "": ""
+  },
+  {
+    "Country_Name": "Guam",
+    "Country_Code": "GUM",
+    "PPP": "",
+    "Currency_Code": "USD",
+    "": ""
+  },
+  {
+    "Country_Name": "Guyana",
+    "Country_Code": "GUY",
+    "PPP": 79.80197,
+    "Currency_Code": "GYD",
+    "": ""
+  },
+  {
+    "Country_Name": "High income",
+    "Country_Code": "HIC",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Hong Kong SAR, China",
+    "Country_Code": "HKG",
+    "PPP": 5.85125,
+    "Currency_Code": "HKD",
+    "": ""
+  },
+  {
+    "Country_Name": "Honduras",
+    "Country_Code": "HND",
+    "PPP": 10.87426,
+    "Currency_Code": "HNL",
+    "": ""
+  },
+  {
+    "Country_Name": "Heavily indebted poor countries (HIPC)",
+    "Country_Code": "HPC",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Croatia",
+    "Country_Code": "HRV",
+    "PPP": 3.27384,
+    "Currency_Code": "HRK",
+    "": ""
+  },
+  {
+    "Country_Name": "Haiti",
+    "Country_Code": "HTI",
+    "PPP": 47.07518,
+    "Currency_Code": "HTG",
+    "": ""
+  },
+  {
+    "Country_Name": "Hungary",
+    "Country_Code": "HUN",
+    "PPP": 154.84012,
+    "Currency_Code": "HUF",
+    "": ""
+  },
+  {
+    "Country_Name": "IBRD only",
+    "Country_Code": "IBD",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "IDA & IBRD total",
+    "Country_Code": "IBT",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "IDA total",
+    "Country_Code": "IDA",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "IDA blend",
+    "Country_Code": "IDB",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Indonesia",
+    "Country_Code": "IDN",
+    "PPP": 4758.70096,
+    "Currency_Code": "IDR",
+    "": ""
+  },
+  {
+    "Country_Name": "IDA only",
+    "Country_Code": "IDX",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Isle of Man",
+    "Country_Code": "IMN",
+    "PPP": "",
+    "Currency_Code": "GBP",
+    "": ""
+  },
+  {
+    "Country_Name": "India",
+    "Country_Code": "IND",
+    "PPP": 23.13814,
+    "Currency_Code": "INR",
+    "": ""
+  },
+  {
+    "Country_Name": "Not classified",
+    "Country_Code": "INX",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Ireland",
+    "Country_Code": "IRL",
+    "PPP": 0.78749,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Iran, Islamic Rep.",
+    "Country_Code": "IRN",
+    "PPP": 29704.30973,
+    "Currency_Code": "IRR",
+    "": ""
+  },
+  {
+    "Country_Name": "Iraq",
+    "Country_Code": "IRQ",
+    "PPP": 703.25697,
+    "Currency_Code": "IQD",
+    "": ""
+  },
+  {
+    "Country_Name": "Iceland",
+    "Country_Code": "ISL",
+    "PPP": 150.6421,
+    "Currency_Code": "ISK",
+    "": ""
+  },
+  {
+    "Country_Name": "Israel",
+    "Country_Code": "ISR",
+    "PPP": 3.79971,
+    "Currency_Code": "ILS",
+    "": ""
+  },
+  {
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "PPP": 0.65435,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Jamaica",
+    "Country_Code": "JAM",
+    "PPP": 69.32332,
+    "Currency_Code": "JMD",
+    "": ""
+  },
+  {
+    "Country_Name": "Jordan",
+    "Country_Code": "JOR",
+    "PPP": 0.28562,
+    "Currency_Code": "JOD",
+    "": ""
+  },
+  {
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "PPP": 100.41164,
+    "Currency_Code": "JPY",
+    "": ""
+  },
+  {
+    "Country_Name": "Kazakhstan",
+    "Country_Code": "KAZ",
+    "PPP": 149.53664,
+    "Currency_Code": "KZT",
+    "": ""
+  },
+  {
+    "Country_Name": "Kenya",
+    "Country_Code": "KEN",
+    "PPP": 43.79894,
+    "Currency_Code": "KES",
+    "": ""
+  },
+  {
+    "Country_Name": "Kyrgyz Republic",
+    "Country_Code": "KGZ",
+    "PPP": 20.42861,
+    "Currency_Code": "KGS",
+    "": ""
+  },
+  {
+    "Country_Name": "Cambodia",
+    "Country_Code": "KHM",
+    "PPP": 1392.45862,
+    "Currency_Code": "KHR",
+    "": ""
+  },
+  {
+    "Country_Name": "Kiribati",
+    "Country_Code": "KIR",
+    "PPP": 1.01335,
+    "Currency_Code": "AUD",
+    "": ""
+  },
+  {
+    "Country_Name": "St. Kitts and Nevis",
+    "Country_Code": "KNA",
+    "PPP": 1.87465,
+    "Currency_Code": "XCD",
+    "": ""
+  },
+  {
+    "Country_Name": "Korea, Rep.",
+    "Country_Code": "KOR",
+    "PPP": 847.45684,
+    "Currency_Code": "KPW",
+    "": ""
+  },
+  {
+    "Country_Name": "Kuwait",
+    "Country_Code": "KWT",
+    "PPP": 0.16061,
+    "Currency_Code": "KWD",
+    "": ""
+  },
+  {
+    "Country_Name": "Latin America & Caribbean (excluding high income)",
+    "Country_Code": "LAC",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Lao PDR",
+    "Country_Code": "LAO",
+    "PPP": 2852.48436,
+    "Currency_Code": "LAK",
+    "": ""
+  },
+  {
+    "Country_Name": "Lebanon",
+    "Country_Code": "LBN",
+    "PPP": 2958.13368,
+    "Currency_Code": "LBP",
+    "": ""
+  },
+  {
+    "Country_Name": "Liberia",
+    "Country_Code": "LBR",
+    "PPP": 0.43347,
+    "Currency_Code": "LRD",
+    "": ""
+  },
+  {
+    "Country_Name": "Libya",
+    "Country_Code": "LBY",
+    "PPP": 1.18931,
+    "Currency_Code": "LYD",
+    "": ""
+  },
+  {
+    "Country_Name": "St. Lucia",
+    "Country_Code": "LCA",
+    "PPP": 1.83909,
+    "Currency_Code": "XCD",
+    "": ""
+  },
+  {
+    "Country_Name": "Latin America & Caribbean",
+    "Country_Code": "LCN",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Least developed countries: UN classification",
+    "Country_Code": "LDC",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Low income",
+    "Country_Code": "LIC",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Liechtenstein",
+    "Country_Code": "LIE",
+    "PPP": "",
+    "Currency_Code": "CHF",
+    "": ""
+  },
+  {
+    "Country_Name": "Sri Lanka",
+    "Country_Code": "LKA",
+    "PPP": 53.70344,
+    "Currency_Code": "LKR",
+    "": ""
+  },
+  {
+    "Country_Name": "Lower middle income",
+    "Country_Code": "LMC",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Low & middle income",
+    "Country_Code": "LMY",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Lesotho",
+    "Country_Code": "LSO",
+    "PPP": 6.42702,
+    "Currency_Code": "LSL",
+    "": ""
+  },
+  {
+    "Country_Name": "Late-demographic dividend",
+    "Country_Code": "LTE",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Lithuania",
+    "Country_Code": "LTU",
+    "PPP": 0.46438,
+    "Currency_Code": "LTL",
+    "": ""
+  },
+  {
+    "Country_Name": "Luxembourg",
+    "Country_Code": "LUX",
+    "PPP": 0.85132,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Latvia",
+    "Country_Code": "LVA",
+    "PPP": 0.50634,
+    "Currency_Code": "LVL",
+    "": ""
+  },
+  {
+    "Country_Name": "Macao SAR, China",
+    "Country_Code": "MAC",
+    "PPP": 4.92699,
+    "Currency_Code": "MOP",
+    "": ""
+  },
+  {
+    "Country_Name": "St. Martin (French part)",
+    "Country_Code": "MAF",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Morocco",
+    "Country_Code": "MAR",
+    "PPP": 3.85958,
+    "Currency_Code": "MAD",
+    "": ""
+  },
+  {
+    "Country_Name": "Monaco",
+    "Country_Code": "MCO",
+    "PPP": "",
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Moldova",
+    "Country_Code": "MDA",
+    "PPP": 6.00934,
+    "Currency_Code": "MDL",
+    "": ""
+  },
+  {
+    "Country_Name": "Madagascar",
+    "Country_Code": "MDG",
+    "PPP": 1205.85563,
+    "Currency_Code": "MGA",
+    "": ""
+  },
+  {
+    "Country_Name": "Maldives",
+    "Country_Code": "MDV",
+    "PPP": 7.58392,
+    "Currency_Code": "MVR",
+    "": ""
+  },
+  {
+    "Country_Name": "Middle East & North Africa",
+    "Country_Code": "MEA",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Mexico",
+    "Country_Code": "MEX",
+    "PPP": 10.04331,
+    "Currency_Code": "MXN",
+    "": ""
+  },
+  {
+    "Country_Name": "Marshall Islands",
+    "Country_Code": "MHL",
+    "PPP": 0.99749,
+    "Currency_Code": "USD",
+    "": ""
+  },
+  {
+    "Country_Name": "Middle income",
+    "Country_Code": "MIC",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "North Macedonia",
+    "Country_Code": "MKD",
+    "PPP": 19.54569,
+    "Currency_Code": "MKD",
+    "": ""
+  },
+  {
+    "Country_Name": "Mali",
+    "Country_Code": "MLI",
+    "PPP": 207.98672,
+    "Currency_Code": "XOF",
+    "": ""
+  },
+  {
+    "Country_Name": "Malta",
+    "Country_Code": "MLT",
+    "PPP": 0.58932,
+    "Currency_Code": "MTL",
+    "": ""
+  },
+  {
+    "Country_Name": "Myanmar",
+    "Country_Code": "MMR",
+    "PPP": 407.06445,
+    "Currency_Code": "MMK",
+    "": ""
+  },
+  {
+    "Country_Name": "Middle East & North Africa (excluding high income)",
+    "Country_Code": "MNA",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Montenegro",
+    "Country_Code": "MNE",
+    "PPP": 0.34743,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Mongolia",
+    "Country_Code": "MNG",
+    "PPP": 1004.55151,
+    "Currency_Code": "MNT",
+    "": ""
+  },
+  {
+    "Country_Name": "Northern Mariana Islands",
+    "Country_Code": "MNP",
+    "PPP": "",
+    "Currency_Code": "USD",
+    "": ""
+  },
+  {
+    "Country_Name": "Mozambique",
+    "Country_Code": "MOZ",
+    "PPP": 24.40726,
+    "Currency_Code": "MZN",
+    "": ""
+  },
+  {
+    "Country_Name": "Mauritania",
+    "Country_Code": "MRT",
+    "PPP": 11.29901,
+    "Currency_Code": "MRO",
+    "": ""
+  },
+  {
+    "Country_Name": "Mauritius",
+    "Country_Code": "MUS",
+    "PPP": 16.51947,
+    "Currency_Code": "MUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Malawi",
+    "Country_Code": "MWI",
+    "PPP": 312.31128,
+    "Currency_Code": "MWK",
+    "": ""
+  },
+  {
+    "Country_Name": "Malaysia",
+    "Country_Code": "MYS",
+    "PPP": 1.59076,
+    "Currency_Code": "MYR",
+    "": ""
+  },
+  {
+    "Country_Name": "North America",
+    "Country_Code": "NAC",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Namibia",
+    "Country_Code": "NAM",
+    "PPP": 7.1281,
+    "Currency_Code": "NAD",
+    "": ""
+  },
+  {
+    "Country_Name": "New Caledonia",
+    "Country_Code": "NCL",
+    "PPP": "",
+    "Currency_Code": "XPF",
+    "": ""
+  },
+  {
+    "Country_Name": "Niger",
+    "Country_Code": "NER",
+    "PPP": 251.87096,
+    "Currency_Code": "XOF",
+    "": ""
+  },
+  {
+    "Country_Name": "Nigeria",
+    "Country_Code": "NGA",
+    "PPP": 152.56917,
+    "Currency_Code": "NGN",
+    "": ""
+  },
+  {
+    "Country_Name": "Nicaragua",
+    "Country_Code": "NIC",
+    "PPP": 11.61366,
+    "Currency_Code": "NIO",
+    "": ""
+  },
+  {
+    "Country_Name": "Netherlands",
+    "Country_Code": "NLD",
+    "PPP": 0.76984,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "PPP": 9.67474,
+    "Currency_Code": "NOK",
+    "": ""
+  },
+  {
+    "Country_Name": "Nepal",
+    "Country_Code": "NPL",
+    "PPP": 33.82869,
+    "Currency_Code": "NPR",
+    "": ""
+  },
+  {
+    "Country_Name": "Nauru",
+    "Country_Code": "NRU",
+    "PPP": 1.08701,
+    "Currency_Code": "AUD",
+    "": ""
+  },
+  {
+    "Country_Name": "New Zealand",
+    "Country_Code": "NZL",
+    "PPP": 1.48635,
+    "Currency_Code": "NZD",
+    "": ""
+  },
+  {
+    "Country_Name": "OECD members",
+    "Country_Code": "OED",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Oman",
+    "Country_Code": "OMN",
+    "PPP": 0.17899,
+    "Currency_Code": "OMR",
+    "": ""
+  },
+  {
+    "Country_Name": "Other small states",
+    "Country_Code": "OSS",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Pakistan",
+    "Country_Code": "PAK",
+    "PPP": 41.92062,
+    "Currency_Code": "PKR",
+    "": ""
+  },
+  {
+    "Country_Name": "Panama",
+    "Country_Code": "PAN",
+    "PPP": 0.45822,
+    "Currency_Code": "PAB",
+    "": ""
+  },
+  {
+    "Country_Name": "Peru",
+    "Country_Code": "PER",
+    "PPP": 1.86898,
+    "Currency_Code": "PEN",
+    "": ""
+  },
+  {
+    "Country_Name": "Philippines",
+    "Country_Code": "PHL",
+    "PPP": 19.16688,
+    "Currency_Code": "PHP",
+    "": ""
+  },
+  {
+    "Country_Name": "Palau",
+    "Country_Code": "PLW",
+    "PPP": 0.87286,
+    "Currency_Code": "USD",
+    "": ""
+  },
+  {
+    "Country_Name": "Papua New Guinea",
+    "Country_Code": "PNG",
+    "PPP": 2.30193,
+    "Currency_Code": "PGK",
+    "": ""
+  },
+  {
+    "Country_Name": "Poland",
+    "Country_Code": "POL",
+    "PPP": 1.8372,
+    "Currency_Code": "PLN",
+    "": ""
+  },
+  {
+    "Country_Name": "Pre-demographic dividend",
+    "Country_Code": "PRE",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Puerto Rico",
+    "Country_Code": "PRI",
+    "PPP": 0.91542,
+    "Currency_Code": "USD",
+    "": ""
+  },
+  {
+    "Country_Name": "Korea, Dem. People's Rep.",
+    "Country_Code": "PRK",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Portugal",
+    "Country_Code": "PRT",
+    "PPP": 0.5716,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Paraguay",
+    "Country_Code": "PRY",
+    "PPP": 2617.45515,
+    "Currency_Code": "PYG",
+    "": ""
+  },
+  {
+    "Country_Name": "West Bank and Gaza",
+    "Country_Code": "PSE",
+    "PPP": 0.59102,
+    "Currency_Code": "NIS",
+    "": ""
+  },
+  {
+    "Country_Name": "Pacific island small states",
+    "Country_Code": "PSS",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Post-demographic dividend",
+    "Country_Code": "PST",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "French Polynesia",
+    "Country_Code": "PYF",
+    "PPP": "",
+    "Currency_Code": "XPF",
+    "": ""
+  },
+  {
+    "Country_Name": "Qatar",
+    "Country_Code": "QAT",
+    "PPP": 2.38496,
+    "Currency_Code": "QAR",
+    "": ""
+  },
+  {
+    "Country_Name": "Romania",
+    "Country_Code": "ROU",
+    "PPP": 1.74596,
+    "Currency_Code": "RON",
+    "": ""
+  },
+  {
+    "Country_Name": "Russian Federation",
+    "Country_Code": "RUS",
+    "PPP": 27.3319,
+    "Currency_Code": "RUB",
+    "": ""
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Country_Code": "RWA",
+    "PPP": 330.52453,
+    "Currency_Code": "RWF",
+    "": ""
+  },
+  {
+    "Country_Name": "South Asia",
+    "Country_Code": "SAS",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Saudi Arabia",
+    "Country_Code": "SAU",
+    "PPP": 1.78496,
+    "Currency_Code": "SAR",
+    "": ""
+  },
+  {
+    "Country_Name": "Sudan",
+    "Country_Code": "SDN",
+    "PPP": 70.68471,
+    "Currency_Code": "SDG",
+    "": ""
+  },
+  {
+    "Country_Name": "Senegal",
+    "Country_Code": "SEN",
+    "PPP": 236.38014,
+    "Currency_Code": "XOF",
+    "": ""
+  },
+  {
+    "Country_Name": "Singapore",
+    "Country_Code": "SGP",
+    "PPP": 0.83957,
+    "Currency_Code": "SGD",
+    "": ""
+  },
+  {
+    "Country_Name": "Solomon Islands",
+    "Country_Code": "SLB",
+    "PPP": 7.06569,
+    "Currency_Code": "SBD",
+    "": ""
+  },
+  {
+    "Country_Name": "Sierra Leone",
+    "Country_Code": "SLE",
+    "PPP": 3117.46355,
+    "Currency_Code": "SLL",
+    "": ""
+  },
+  {
+    "Country_Name": "El Salvador",
+    "Country_Code": "SLV",
+    "PPP": 0.45596,
+    "Currency_Code": "SVC",
+    "": ""
+  },
+  {
+    "Country_Name": "San Marino",
+    "Country_Code": "SMR",
+    "PPP": 0.66893,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Somalia",
+    "Country_Code": "SOM",
+    "PPP": 8912.14377,
+    "Currency_Code": "SOS",
+    "": ""
+  },
+  {
+    "Country_Name": "Serbia",
+    "Country_Code": "SRB",
+    "PPP": 42.73586,
+    "Currency_Code": "RSD",
+    "": ""
+  },
+  {
+    "Country_Name": "Sub-Saharan Africa (excluding high income)",
+    "Country_Code": "SSA",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Country_Code": "SSD",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Sub-Saharan Africa",
+    "Country_Code": "SSF",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Small states",
+    "Country_Code": "SST",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Sao Tome and Principe",
+    "Country_Code": "STP",
+    "PPP": 11.49526,
+    "Currency_Code": "STD",
+    "": ""
+  },
+  {
+    "Country_Name": "Suriname",
+    "Country_Code": "SUR",
+    "PPP": 5.71347,
+    "Currency_Code": "SRD",
+    "": ""
+  },
+  {
+    "Country_Name": "Slovak Republic",
+    "Country_Code": "SVK",
+    "PPP": 0.54012,
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Slovenia",
+    "Country_Code": "SVN",
+    "PPP": 0.56594,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "PPP": 8.70885,
+    "Currency_Code": "SEK",
+    "": ""
+  },
+  {
+    "Country_Name": "Eswatini",
+    "Country_Code": "SWZ",
+    "PPP": 6.34792,
+    "Currency_Code": "SZL",
+    "": ""
+  },
+  {
+    "Country_Name": "Sint Maarten (Dutch part)",
+    "Country_Code": "SXM",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Seychelles",
+    "Country_Code": "SYC",
+    "PPP": 7.54611,
+    "Currency_Code": "SCR",
+    "": ""
+  },
+  {
+    "Country_Name": "Syrian Arab Republic",
+    "Country_Code": "SYR",
+    "PPP": "",
+    "Currency_Code": "SYP",
+    "": ""
+  },
+  {
+    "Country_Name": "Turks and Caicos Islands",
+    "Country_Code": "TCA",
+    "PPP": 1.02807,
+    "Currency_Code": "USD",
+    "": ""
+  },
+  {
+    "Country_Name": "Chad",
+    "Country_Code": "TCD",
+    "PPP": 242.80097,
+    "Currency_Code": "XAF",
+    "": ""
+  },
+  {
+    "Country_Name": "East Asia & Pacific (IDA & IBRD countries)",
+    "Country_Code": "TEA",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Europe & Central Asia (IDA & IBRD countries)",
+    "Country_Code": "TEC",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Togo",
+    "Country_Code": "TGO",
+    "PPP": 231.19258,
+    "Currency_Code": "XOF",
+    "": ""
+  },
+  {
+    "Country_Name": "Thailand",
+    "Country_Code": "THA",
+    "PPP": 12.04107,
+    "Currency_Code": "THB",
+    "": ""
+  },
+  {
+    "Country_Name": "Tajikistan",
+    "Country_Code": "TJK",
+    "PPP": 2.36572,
+    "Currency_Code": "TJS",
+    "": ""
+  },
+  {
+    "Country_Name": "Turkmenistan",
+    "Country_Code": "TKM",
+    "PPP": "",
+    "Currency_Code": "TMT",
+    "": ""
+  },
+  {
+    "Country_Name": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "Country_Code": "TLA",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Timor-Leste",
+    "Country_Code": "TLS",
+    "PPP": 0.33001,
+    "Currency_Code": "USD",
+    "": ""
+  },
+  {
+    "Country_Name": "Middle East & North Africa (IDA & IBRD countries)",
+    "Country_Code": "TMN",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Tonga",
+    "Country_Code": "TON",
+    "PPP": 1.59608,
+    "Currency_Code": "TOP",
+    "": ""
+  },
+  {
+    "Country_Name": "South Asia (IDA & IBRD)",
+    "Country_Code": "TSA",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "Country_Code": "TSS",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Trinidad and Tobago",
+    "Country_Code": "TTO",
+    "PPP": 3.83433,
+    "Currency_Code": "TTD",
+    "": ""
+  },
+  {
+    "Country_Name": "Tunisia",
+    "Country_Code": "TUN",
+    "PPP": 0.94583,
+    "Currency_Code": "TND",
+    "": ""
+  },
+  {
+    "Country_Name": "Turkiye",
+    "Country_Code": "TUR",
+    "PPP": 2.78185,
+    "Currency_Code": "TRK",
+    "": ""
+  },
+  {
+    "Country_Name": "Tuvalu",
+    "Country_Code": "TUV",
+    "PPP": 1.38595,
+    "Currency_Code": "AUD",
+    "": ""
+  },
+  {
+    "Country_Name": "Tanzania",
+    "Country_Code": "TZA",
+    "PPP": 890.58102,
+    "Currency_Code": "TZS",
+    "": ""
+  },
+  {
+    "Country_Name": "Uganda",
+    "Country_Code": "UGA",
+    "PPP": 1309.50549,
+    "Currency_Code": "UGX",
+    "": ""
+  },
+  {
+    "Country_Name": "Ukraine",
+    "Country_Code": "UKR",
+    "PPP": 9.27893,
+    "Currency_Code": "UAH",
+    "": ""
+  },
+  {
+    "Country_Name": "Upper middle income",
+    "Country_Code": "UMC",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Uruguay",
+    "Country_Code": "URY",
+    "PPP": 30.10312,
+    "Currency_Code": "UYU",
+    "": ""
+  },
+  {
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "PPP": 1,
+    "Currency_Code": "USD",
+    "": ""
+  },
+  {
+    "Country_Name": "Uzbekistan",
+    "Country_Code": "UZB",
+    "PPP": 2475.9497,
+    "Currency_Code": "UZS",
+    "": ""
+  },
+  {
+    "Country_Name": "St. Vincent and the Grenadines",
+    "Country_Code": "VCT",
+    "PPP": 1.53985,
+    "Currency_Code": "XCD",
+    "": ""
+  },
+  {
+    "Country_Name": "Venezuela, RB",
+    "Country_Code": "VEN",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "British Virgin Islands",
+    "Country_Code": "VGB",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Virgin Islands (U.S.)",
+    "Country_Code": "VIR",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Vietnam",
+    "Country_Code": "VNM",
+    "PPP": 7405.19001,
+    "Currency_Code": "VND",
+    "": ""
+  },
+  {
+    "Country_Name": "Vanuatu",
+    "Country_Code": "VUT",
+    "PPP": 109.91361,
+    "Currency_Code": "VUV",
+    "": ""
+  },
+  {
+    "Country_Name": "World",
+    "Country_Code": "WLD",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "Samoa",
+    "Country_Code": "WSM",
+    "PPP": 1.57722,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Kosovo",
+    "Country_Code": "XKX",
+    "PPP": 0.33143,
+    "Currency_Code": "EUR",
+    "": ""
+  },
+  {
+    "Country_Name": "Yemen, Rep.",
+    "Country_Code": "YEM",
+    "PPP": "",
+    "Currency_Code": "",
+    "": ""
+  },
+  {
+    "Country_Name": "South Africa",
+    "Country_Code": "ZAF",
+    "PPP": 7.1681,
+    "Currency_Code": "ZAR",
+    "": ""
+  },
+  {
+    "Country_Name": "Zambia",
+    "Country_Code": "ZMB",
+    "PPP": 6.19046,
+    "Currency_Code": "ZMK",
+    "": ""
+  },
+  {
+    "Country_Name": "Zimbabwe",
+    "Country_Code": "ZWE",
+    "PPP": 79.90261,
+    "Currency_Code": "ZWD",
+    "": ""
+  }
+]
