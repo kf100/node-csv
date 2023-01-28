@@ -8,12 +8,12 @@ const json=require("./csvjson_last&final.json");
 
 const fetch=require("node-fetch");
 // globalThis.fetch = fetch;
-// const dotenv=require("dotenv");
+const dotenv=require("dotenv");
 const bp=require("body-parser");
 app.use(bp.urlencoded({extended:true}));
 const {PORT=3000}=process.env
 
-// dotenv.config({path:'./.env'})
+dotenv.config({path:'./.env'})
 app.set("view engine","ejs");
 
 var d;
@@ -46,7 +46,10 @@ app.post("/hello",async function(req,res){
 		console.log(d2);
 		};
 	});
-	var response= await fetch(`https://v6.exchangerate-api.com/v6/8ec6b5690d95492d22fe1b0c/pair/${c1}/${c2}/1`);
+	// var response= await fetch(`https://v6.exchangerate-api.com/v6/8ec6b5690d95492d22fe1b0c/pair/${c1}/${c2}/1`);
+	var response= await fetch(`https://v6.exchangerate-api.com/v6/${process.env.API}/pair/${c1}/${c2}/1`);
+
+
 	// console.log(`https://v6.exchangerate-api.com/v6/8ec6b5690d95492d22fe1b0c/pair/${c1}/${c2}/1`)
 	var data =await response.json();
 	console.log("Conversion Rate:",data.conversion_result);
